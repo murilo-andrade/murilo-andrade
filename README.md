@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @murilo-andrade
-- 👀 I’m interested in Android
+- 👀 I’m interested in Android and Python
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on nothing, for a while...
 - 📫 How to reach me via LinkTree https://linktr.ee/murilo.andrade
